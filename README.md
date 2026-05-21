@@ -106,30 +106,28 @@ line-follower/
 │   ├── Photo.jpg         # Line Follower Photo
 │   ├── PhotoBottomView.jpg  #Photo from the bottom view
 │   ├── PhotoTopView.jpg    # Photo from the top view   
-├── kati allo/
-│   ├── side_view.jpg
-│   ├── top_view.jpg
-│   └── bottom_view.jpg
+├── LICENSE      
+│   
 └── README.md
 ```
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Flash the code onto the Maker Pi RP2040 board (using Arduino IDE).
 2. Calibrate the TCRT5000 sensors via the onboard potentiometers according to ambient lighting conditions and connect the to the corresponding pins
 on the board ADC(26,27,28)
-4. Place the robot on the track and power on.
+3. Place the robot on the track and power on.
 
 ---
 
-## 📊 Results
+##  Results
 
-- ✅ Reliable line tracking on both straight segments and curves
-- ✅ Effective line recovery mechanism in search mode
-- ✅ Correct activation of stop condition at track end
-- ⚠️ Re-calibration required under varying lighting conditions
+- Reliable line tracking on both straight segments and curves
+- Effective line recovery mechanism in search mode
+- Correct activation of stop condition at track end
+ Attenntion: Re-calibration required under varying lighting conditions
 
 ### Suggested Improvements
 
@@ -139,7 +137,7 @@ on the board ADC(26,27,28)
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 <table>
 <tr>
