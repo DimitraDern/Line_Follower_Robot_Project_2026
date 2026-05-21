@@ -16,7 +16,6 @@ This project involves the design and implementation of a fully **autonomous robo
 
 <img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/274e0358-d438-4fe6-b444-319f2e758cab" />
 
-
 ---
 
 ##  System Features
@@ -67,6 +66,10 @@ This project involves the design and implementation of a fully **autonomous robo
 │          PWM Output (Motor L / R)       │
 └─────────────────────────────────────────┘
 ```
+## 🔌 Wiring Diagram
+
+<img width="560" height="324" alt="image" src="https://github.com/user-attachments/assets/f7e2d398-04f4-4bd5-9a65-1a8cfc11e7ea" />
+
 
 ### Control Logic
 
@@ -137,8 +140,8 @@ on the board ADC(26,27,28)
 
 ---
 
-##  Team Members
-
+##  👥 Team Members
+<div align="center">
 <table>
 <tr>
 
@@ -174,6 +177,11 @@ on the board ADC(26,27,28)
 
 </tr>
 </table>
-
-**Team 2 — Lab Section 1**  
-Department of Informatics, DUTH — Spring Semester 2026
+</tr>
+</div>
+<div align="center">
+Team 2 — Lab Section 1
+Department of Informatics, DUTH — Spring Semester 2026  
+<br>
+<sub>© 2026 Group 2 - Democritus University of Thrace. All rights reserved.</sub>
+</div>
