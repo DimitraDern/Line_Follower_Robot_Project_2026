@@ -103,11 +103,11 @@ line-follower/
 ├── src/
 │   └── LineFollowerCode.ino  # Main source code (C++/ArduinoIDE)
 ├── LineFollowerPictures/
-│   ├── Photo.jpg         # Line Follower Photo
+|   ├── CompetionStages.png #Photos from the three stages 
+│   ├── Photo.jpg # Line Follower Photo
 │   ├── PhotoBottomView.jpg  #Photo from the bottom view
-│   ├── PhotoTopView.jpg    # Photo from the top view   
+│   ├── PhotoTopView.jpg # Photo from the top view
 ├── LICENSE      
-│   
 └── README.md
 ```
 
