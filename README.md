@@ -154,7 +154,7 @@ on the board ADC(26,27,28)
 
 <td align="center">
   <img src="https://github.com/vlapozidis.png" width="120px;" alt="vlapozidis"/><br>
-  <sub><b>Vasilis Lapozidis</b></sub><br><br>
+  <sub><b>Vladimiros Pozidis</b></sub><br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-vlapozidis-black?style=for-the-badge&logo=github)](https://github.com/vlapozidis)
 
