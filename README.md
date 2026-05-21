@@ -117,9 +117,10 @@ line-follower/
 
 ## 🚀 Getting Started
 
-1. Flash the code onto the Maker Pi RP2040 board (using ARDUINO IDE).
-2. Calibrate the TCRT5000 sensors via the onboard potentiometers according to ambient lighting conditions.
-3. Place the robot on the track and power on.
+1. Flash the code onto the Maker Pi RP2040 board (using Arduino IDE).
+2. Calibrate the TCRT5000 sensors via the onboard potentiometers according to ambient lighting conditions and connect the to the corresponding pins
+on the board ADC(26,27,28)
+4. Place the robot on the track and power on.
 
 ---
 
