@@ -8,6 +8,8 @@
 ##  Description
 
 This project involves the design and implementation of a fully **autonomous robotic vehicle** that follows a black line on a white surface. The system uses TCRT5000 infrared sensors and a **PID control algorithm** to dynamically correct its path in real time, without any human intervention.
+<img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/274e0358-d438-4fe6-b444-319f2e758cab" />
+
 
 ---
 
