@@ -144,5 +144,5 @@ line-follower/
 | Stella Kaitatzi | 
 | Charalampis Papastamos | 
 
-**Team 2 — Lab Section 1 (15:00–17:00)**  
+**Team 2 — Lab Section 1**  
 Department of Informatics, DUTH — Spring Semester 2026
