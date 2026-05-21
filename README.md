@@ -127,7 +127,7 @@ on the board ADC(26,27,28)
 - Reliable line tracking on both straight segments and curves
 - Effective line recovery mechanism in search mode
 - Correct activation of stop condition at track end
-- Attenntion: Re-calibration required under varying lighting conditions
+- Attention: Re-calibration required under varying lighting conditions
 
 ### Suggested Improvements
 
