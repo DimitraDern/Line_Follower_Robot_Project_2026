@@ -138,6 +138,48 @@ on the board ADC(26,27,28)
 - Implement automatic calibration at startup
 
 ---
+## 👥 Team Members
+<div align="center">
+
+## 👥 Team Members
+
+<table>
+<tr>
+
+<td align="center">
+  <img src="https://github.com/DimitraDern.png" width="120px;" alt="Dimitra Dern"/><br>
+  <sub><b>Dimitra Dern</b></sub><br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DimitraDern-black?style=for-the-badge&logo=github)](https://github.com/DimitraDern)
+
+</td>
+
+<td align="center">
+  <img src="https://github.com/vlapozidis.png" width="120px;" alt="vlapozidis"/><br>
+  <sub><b>Vasilis Lapozidis</b></sub><br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-vlapozidis-black?style=for-the-badge&logo=github)](https://github.com/vlapozidis)
+
+</td>
+
+<td align="center">
+
+<img src="https://via.placeholder.com/120x120.png?text=%2B" width="120px;" alt="Empty"/><br>
+<sub><b>Coming Soon</b></sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://via.placeholder.com/120x120.png?text=%2B" width="120px;" alt="Empty"/><br>
+<sub><b>Coming Soon</b></sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## 👥 Team
 
