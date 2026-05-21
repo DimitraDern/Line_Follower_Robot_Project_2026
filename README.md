@@ -101,11 +101,11 @@ if (all_black)
 ```
 line-follower/
 ├── src/
-│   └── main.py           # Main source code (MicroPython / C)
+│   └── LineFollowerCode.ino  # Main source code (C++/ArduinoIDE)
 ├── LineFollowerPictures/
 │   ├── Photo.jpg         # Line Follower Photo
 │   ├── PhotoBottomView.jpg  #Photo from the bottom view
-│   ├── PhotoTopView    # Photo from the top view   
+│   ├── PhotoTopView.jpg    # Photo from the top view   
 ├── kati allo/
 │   ├── side_view.jpg
 │   ├── top_view.jpg
@@ -117,7 +117,7 @@ line-follower/
 
 ## 🚀 Getting Started
 
-1. Flash the code onto the Maker Pi RP2040 board (using Thonny IDE or `mpremote`).
+1. Flash the code onto the Maker Pi RP2040 board (using ARDUINO IDE).
 2. Calibrate the TCRT5000 sensors via the onboard potentiometers according to ambient lighting conditions.
 3. Place the robot on the track and power on.
 
