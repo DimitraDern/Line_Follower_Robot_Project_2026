@@ -3,11 +3,16 @@
 > Autonomous line-following robot with PID control algorithm  
 > **DUTH — Department of Informatics | Embedded Systems | Spring 2026**
 
+![Arduino](https://img.shields.io/badge/Arduino-C%2B%2B-blue?style=for-the-badge&logo=arduino)
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico-ff69b4?style=for-the-badge)
+![Control](https://img.shields.io/badge/Control-PID-green?style=for-the-badge)
+
 ---
 
 ##  Description
 
 This project involves the design and implementation of a fully **autonomous robotic vehicle** that follows a black line on a white surface. The system uses TCRT5000 infrared sensors and a **PID control algorithm** to dynamically correct its path in real time, without any human intervention.
+
 <img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/274e0358-d438-4fe6-b444-319f2e758cab" />
 
 
