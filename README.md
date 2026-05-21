@@ -5,6 +5,7 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-C%2B%2B-blue?style=for-the-badge&logo=arduino)
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico-ff69b4?style=for-the-badge)
+![MCU](https://img.shields.io/badge/MCU-RP2040-c51a4a?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Control](https://img.shields.io/badge/Control-PID-green?style=for-the-badge)
 
 ---
@@ -75,19 +76,22 @@ This project involves the design and implementation of a fully **autonomous robo
 
 3. **Stop condition**: If all sensors simultaneously detect black → the robot stops completely and PID variables are reset.
 
-### PID Controller?????????????????????????????
 
-```python
-error = calculate_position_error(sensors)  # -1 (left), 0 (center), +1 (right)
+### Example Code
 
-P = Kp * error
-I += Ki * error
-D = Kd * (error - prev_error)
+```cpp
+// PID control
+float error = get_error(b_l, b_c, b_r);
+set_speeds(BASE_SPEED + correction,
+           BASE_SPEED - correction);
 
-correction = P + I + D
+// Search mode
+if (last_seen == "left")
+  set_speeds(0, SEARCH_SPEED);
 
-motor_left_speed  = base_speed + correction
-motor_right_speed = base_speed - correction
+// Stop condition
+if (all_black)
+  motor_stop();
 ```
 
 ---
@@ -98,12 +102,11 @@ motor_right_speed = base_speed - correction
 line-follower/
 ├── src/
 │   └── main.py           # Main source code (MicroPython / C)
-├── docs/
-│   ├── report.pdf         # Final project report
-│   ├── flow_diagram.png   # Control algorithm flowchart
-│   ├── system_arch.png    # System block diagram
-│   └── schematics/        # Hardware schematics
-├── images/
+├── LineFollowerPictures/
+│   ├── Photo.jpg         # Line Follower Photo
+│   ├── PhotoBottomView.jpg  #Photo from the bottom view
+│   ├── PhotoTopView    # Photo from the top view   
+├── kati allo/
 │   ├── side_view.jpg
 │   ├── top_view.jpg
 │   └── bottom_view.jpg
