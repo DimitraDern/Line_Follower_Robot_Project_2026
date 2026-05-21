@@ -138,8 +138,6 @@ on the board ADC(26,27,28)
 - Implement automatic calibration at startup
 
 ---
-## 👥 Team Members
-<div align="center">
 
 ## 👥 Team Members
 
@@ -148,7 +146,7 @@ on the board ADC(26,27,28)
 
 <td align="center">
   <img src="https://github.com/DimitraDern.png" width="120px;" alt="Dimitra Dern"/><br>
-  <sub><b>Dimitra Dern</b></sub><br><br>
+  <sub><b>Dimitra Dernektsi</b></sub><br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DimitraDern-black?style=for-the-badge&logo=github)](https://github.com/DimitraDern)
 
@@ -178,17 +176,6 @@ on the board ADC(26,27,28)
 
 </tr>
 </table>
-
-</div>
-
-## 👥 Team
-
-| Name | 
-|---|
-| Dimitra Dernektsi |
-| Vladimiros Pozidis | 
-| Stella Kaitatzi | 
-| Charalampis Papastamos | 
 
 **Team 2 — Lab Section 1**  
 Department of Informatics, DUTH — Spring Semester 2026
