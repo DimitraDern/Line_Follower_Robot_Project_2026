@@ -1,7 +1,7 @@
 # Line_Follower_Robot_Project_2026
 
 > Autonomous line-following robot with PID control algorithm  
-> **DUTH — Department of Computer Science | Embedded Systems | Spring 2026**
+> **DUTH — Department of Informatics | Embedded Systems | Spring 2026**
 
 ---
 
@@ -138,4 +138,4 @@ line-follower/
 | Charalampis Papastamos | 
 
 **Team 2 — Lab Section 1 (15:00–17:00)**  
-Department of Computer Science, DUTH — Spring Semester 2026
+Department of Informatics, DUTH — Spring Semester 2026
