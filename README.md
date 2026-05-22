@@ -66,7 +66,7 @@ This project involves the design and implementation of a fully **autonomous robo
 │          PWM Output (Motor L / R)       │
 └─────────────────────────────────────────┘
 ```
-## 🔌 Wiring Diagram
+##  Wiring Diagram
 
 <img width="560" height="324" alt="image" src="https://github.com/user-attachments/assets/f7e2d398-04f4-4bd5-9a65-1a8cfc11e7ea" />
 
@@ -140,7 +140,7 @@ on the board ADC(26,27,28)
 
 ---
 
-##  👥 Team Members
+##   Team Members
 <div align="center">
 <table>
 <tr>
