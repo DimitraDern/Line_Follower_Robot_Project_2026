@@ -163,8 +163,10 @@ on the board ADC(26,27,28)
 
 <td align="center">
 
-<img src="https://via.placeholder.com/120x120.png?text=%2B" width="120px;" alt="Empty"/><br>
-<sub><b>Coming Soon</b></sub>
+<img src="https://github.com/Kaitatzi.png" width="120px;" alt="Empty"/><br>
+<sub><b>Stella Kaitatzi</b></sub>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kaitatzi-black?style=for-the-badge&logo=github)](https://github.com/Kaitatzi)
 
 </td>
 
