@@ -13,9 +13,9 @@
 #define RIGHT_SENSOR_PIN  A0
 
 //Speeds for search turn and general speed 
-#define BASE_SPEED   255 //250
-#define TURN_SPEED    150 //130
-#define SEARCH_SPEED  235 //220
+#define BASE_SPEED   255 
+#define TURN_SPEED    150 
+#define SEARCH_SPEED  235 
 
 //Threshold for black and white line 
 #define THRESHOLD     390
