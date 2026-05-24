@@ -173,7 +173,7 @@ on the board ADC(26,27,28)
 <td align="center">
 
 <img src="https://via.placeholder.com/120x120.png?text=%2B" width="120px;" alt="Empty"/><br>
-<sub><b>Coming Soon</b></sub>
+<sub><b>Xaralampis Papastamos</b></sub>
 
 </td>
 
